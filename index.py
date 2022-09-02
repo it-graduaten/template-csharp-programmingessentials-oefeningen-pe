@@ -22,7 +22,7 @@ for chapter in chapters:
     print('Creating folder for chapter ' + chapter_number + ' - ' + chapter_name)
     os.mkdir(chapter_number + ' - ' + chapter_name)
     # Create a subfolder for each 10 exercises
-    for i in range(1, 11):
+    for i in range(0, 11):
         exercise_number = str(i).zfill(2)
         print('Creating folder for exercise ' + chapter_number + '_' + exercise_number)
         os.mkdir(chapter_number + ' - ' + chapter_name + '/' + chapter_number + '_' + exercise_number)
