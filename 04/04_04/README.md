@@ -4,5 +4,5 @@ drukt het programma een sjaal af met de ingevoerde waarden. Bekijk de voorbeelde
 
 | Input aan de console | Verwachte output |
 |----------------------|------------------|
-| *<br>^<br>5<br>7 | *******<br>^^^^^^^<br>*******<br>^^^^^^^<br>******* |
-| =<br>+<br>3<br>10 | ==========<br>++++++++++<br>========== |
+| *<br>^<br>5<br>7 | \*\*\*\*\*\*\*<br>^^^^^^^<br>\*\*\*\*\*\*\* <br>^^^^^^^<br>\*\*\*\*\*\*\* |
+| =<br>+<br>3<br>10 | ========== <br>++++++++++ <br>========== |
