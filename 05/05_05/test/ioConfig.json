@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ 3, 3, 3 ],
+      "outputs": [ "U hebt 150 punten behaald" ]
+    },
+    {
+      "inputs": [ 6, 4, 3, 2 ],
+      "outputs": [ "U hebt 170 punten behaald" ]
+    },
+    {
+      "inputs": [ 0, 4, "abc", 3, 2 ],
+      "outputs": [ "U hebt 170 punten behaald" ]
+    },
+    {
+      "inputs": [ "abc", "stoel", 1, 2, 3 ],
+      "outputs": [ "U hebt 70 punten behaald" ]
+    },
+    {
+      "inputs": ["test", 1, "abc", 2, "test", 3],
+      "outputs": [ "U hebt 70 punten behaald" ]
+    },
+    {
+      "inputs": [1, 1, 1],
+      "outputs": [ "U hebt 0 punten behaald" ]
+    }
+  ]
+}
