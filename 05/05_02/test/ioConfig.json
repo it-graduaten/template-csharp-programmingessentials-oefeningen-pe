@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ 95, 442, 324, 238, 114, 3 ],
+      "outputs": [ "Totaalprijs: 1193 euro" ]
+    },
+    {
+      "inputs": [ 401, 450, 369, 330, 170, 2 ],
+      "outputs": [ "Totaalprijs: 1710 euro" ]
+    },
+    {
+      "inputs": [ 327, 357, 283, 412, 230, 3 ],
+      "outputs": [ "Totaalprijs: 1589 euro" ]
+    },
+    {
+      "inputs": [ 458, 390, 390, 59, 235, 2 ],
+      "outputs": [ "Totaalprijs: 1522 euro" ]
+    },
+    {
+      "inputs": [ 107, 395, 207, 168, 201, 3 ],
+      "outputs": [ "Totaalprijs: 1058 euro" ]
+    },
+    {
+      "inputs": [ 73, 95, 248, 77, 466, 2 ],
+      "outputs": [ "Totaalprijs: 949 euro" ]
+    }
+  ]
+}
