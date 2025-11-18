@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ 10 ],
+      "outputs": [ "Er zijn 4 getallen nodig." ]
+    },
+    {
+      "inputs": [ 8 ],
+      "outputs": [ "Er zijn 4 getallen nodig." ]
+    },
+    {
+      "inputs": [ 88 ],
+      "outputs": [ "Er zijn 13 getallen nodig." ]
+    },
+    {
+      "inputs": [ 105 ],
+      "outputs": [ "Er zijn 14 getallen nodig." ]
+    },
+    {
+      "inputs": [ 0 ],
+      "outputs": [ "Er zijn 1 getallen nodig." ]
+    },
+    {
+      "inputs": [ "rest", -4, 6 ],
+      "outputs": [ "Er zijn 3 getallen nodig." ]
+    }
+  ]
+}
