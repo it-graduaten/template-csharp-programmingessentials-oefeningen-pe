@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["a"],
+      "outputs": ["Klinker."]
+    },
+    {
+      "inputs": ["b"],
+      "outputs": ["Medeklinker."]
+    },
+    {
+      "inputs": ["c"],
+      "outputs": ["Medeklinker."]
+    },
+    {
+      "inputs": ["i"],
+      "outputs": ["Klinker."]
+    },
+    {
+      "inputs": ["r"],
+      "outputs": ["Medeklinker."]
+    },
+    {
+      "inputs": ["u"],
+      "outputs": ["Klinker."]
+    }
+  ]
+}
