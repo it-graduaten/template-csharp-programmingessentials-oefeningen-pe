@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ "Driehoek", 10, 5 ],
+      "outputs": [ "Oppervlakte: 25" ]
+    },
+    {
+      "inputs": [ "Cirkel", 8 ],
+      "outputs": [ "Oppervlakte: 201" ]
+    },
+    {
+      "inputs": [ "Rechthoek", 8, 6],
+      "outputs": [ "Oppervlakte: 48" ]
+    },
+    {
+      "inputs": [ "Driehoek", 8, 9],
+      "outputs": [ "Oppervlakte: 36" ]
+    },
+    {
+      "inputs": [ "Cirkel", 10 ],
+      "outputs": [ "Oppervlakte: 314" ]
+    },
+    {
+      "inputs": [ "Rechthoek", 10, 5 ],
+      "outputs": [ "Oppervlakte: 50" ]
+    }
+  ]
+}
