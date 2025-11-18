@@ -1,0 +1,31 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["1", "1"],
+      "outputs": ["Het gemiddelde is 11.9"],
+      "ignoreCulture": true
+    },
+    {
+      "inputs": ["2", "1"],
+      "outputs": ["De hoogste score is 17"]
+    },
+    {
+      "inputs": ["3", "1"],
+      "outputs": ["De laagste score is 4"]
+    },
+    {
+      "inputs": ["4", "1", "7", "5"],
+      "outputs": ["Het gemiddelde is 12.7"],
+      "ignoreCulture": true
+    },
+    {
+      "inputs": ["test", "2", "test", "4"],
+      "outputs": ["De hoogste score is 20"]
+    },
+    {
+      "inputs": ["3", "6"],
+      "outputs": ["De laagste score is 0"]
+    }
+  ]
+}
