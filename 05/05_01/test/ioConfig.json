@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ "egel", 45, 30 ],
+      "outputs": [ "45 - 30 = 15" ]
+    },
+    {
+      "inputs": [ "egel", 30, "eenhoorn", 45 ],
+      "outputs": [ "45 - 30 = 15" ]
+    },
+    {
+      "inputs": [ 10, 7 ],
+      "outputs": [ "10 - 7 = 3" ]
+    },
+    {
+      "inputs": [ -40, 23 ],
+      "outputs": [ "23 - -40 = 63" ]
+    },
+    {
+      "inputs": [ 30, 15 ],
+      "outputs": [ "30 - 15 = 15" ]
+    },
+    {
+      "inputs": [ "ster", "thomas more", 200, "thomas more", 100 ],
+      "outputs": [ "200 - 100 = 100" ]
+    }
+  ]
+}
