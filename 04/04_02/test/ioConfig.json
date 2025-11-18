@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["Joren", 4],
+      "outputs": ["4 Joren Joren Joren Joren"]
+    },
+    {
+      "inputs": ["Jef", 7],
+      "outputs": ["7 Jef Jef Jef Jef Jef Jef Jef"]
+    },
+    {
+      "inputs": ["Mieke", 2],
+      "outputs": ["2 Mieke Mieke"]
+    },
+    {
+      "inputs": ["Jef", -3],
+      "outputs": ["-3"]
+    },
+    {
+      "inputs": ["Joren", 0],
+      "outputs": ["0"]
+    },
+    {
+      "inputs": ["Jo", 2],
+      "outputs": ["2 Jo Jo"]
+    }
+  ]
+}
