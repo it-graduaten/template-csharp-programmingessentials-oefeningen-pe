@@ -1,0 +1,65 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [
+        100,
+        3
+      ],
+      "outputs": [
+        82.5
+      ],
+      "delta": 1
+    },
+    {
+      "inputs": [
+        200,
+        29
+      ],
+      "outputs": [
+        170
+      ],
+      "delta": 1
+    },
+    {
+      "inputs": [
+        56,
+        1
+      ],
+      "outputs": [
+        46.2
+      ],
+      "delta": 1
+    },
+    {
+      "inputs": [
+        50,
+        2
+      ],
+      "outputs": [
+        43.75
+      ],
+      "delta": 1
+    },
+    {
+      "inputs": [
+        15,
+        8
+      ],
+      "outputs": [
+        13.5
+      ],
+      "delta": 1
+    },
+    {
+      "inputs": [
+        900,
+        7
+      ],
+      "outputs": [
+        765
+      ],
+      "delta": 1
+    }
+  ]
+}
