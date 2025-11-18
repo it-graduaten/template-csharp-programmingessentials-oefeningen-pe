@@ -1,0 +1,107 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["0"],
+      "outputs": ["Druk op enter om af te sluiten"]
+    },
+    {
+      "inputs": ["1", "0"],
+      "outputs": [
+        "Gedicht 1",
+        "=========",
+        "Rare Patat",
+        "Ontdaan van zijn schil",
+        "Stapte de aardappel in bad",
+        "Is dit wat ik wil?",
+        "Dacht die rare patat",
+        "",
+        "Of maak ik een fout",
+        "Want voor je weet..",
+        "Nu is het nog koud",
+        "Maar straks wordt het heet",
+        "",
+        "En na deze pan?",
+        "Ach ik zit er niet mee",
+        "waar ik eindigen kan",
+        "Ik zat toch al in de puree"
+      ]
+    },
+    {
+      "inputs": ["1", "2", "0"],
+      "outputs": [
+        "Gedicht 2",
+        "=========",
+        "Fantastische klas",
+        "Een lokaal vol",
+        "leerkrachten en vrienden",
+        "waarin iedereen zich",
+        "goed voelt",
+        "Het gelach",
+        "de sfeer",
+        "een gevoel dat nooit wegspoelt.",
+        "",
+        "In elk van jullie",
+        "vind ik iets super.",
+        "Jullie zijn vrienden",
+        "waarop ik kan steunen",
+        "lachen en praten.",
+        "Ik kan en wil jullie",
+        "nooit vergeten",
+        "nooit verlaten.",
+        "",
+        "Na de vakantie",
+        "zag ik jullie terug.",
+        "Toen ik ieder zijn gedachten las.",
+        "Jullie betekenen teveel voor me,",
+        "we zijn een fantastische klas!"
+      ]
+    },
+    {
+      "inputs": ["test", "12", "0"],
+      "outputs": ["Bestand", "gedicht-12.txt", "bestaat niet"]
+    },
+    {
+      "inputs": ["test", "12", "11", "0"],
+      "outputs": [
+        "Gedicht 11",
+        "==========",
+        "vrienden zijn er niet zomaar",
+        "die ontmoet je in je leven",
+        "mensen die jou verkiezen",
+        "om vriendschap aan te geven",
+        "vrienden krijg je niet zomaar",
+        "ze zijn er voor je dag en nacht",
+        "vrienden vind je op een plaats",
+        "waar je ze niet verwacht."
+      ]
+    },
+    {
+      "inputs": ["5", "0"],
+      "outputs": [
+        "Gedicht 5",
+        "=========",
+        "Sorry voor alles",
+        "Sorry voor alles,",
+        "voor wat ik heb gedaan.",
+        "Sorry dat ik je,",
+        "daar zomaar liet staan.",
+        "",
+        "Sorry voor alles,",
+        "sorry voor al het verdriet",
+        "Sorry, ik weet het,",
+        "ook al zie je het niet.",
+        "",
+        "Sorry voor alles,",
+        "'t is weer ik die me moei.",
+        "Maar toch hoop ik dat bij jou,",
+        "terug een zonnetje bloeit.",
+        "",
+        "Sorry voor alles,",
+        "vergeef me het meest,",
+        "Sorry dat ik er,",
+        "ooit ben geweest."
+      ]
+    }
+  ]
+}
