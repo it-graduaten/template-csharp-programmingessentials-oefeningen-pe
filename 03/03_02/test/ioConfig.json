@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["1500"],
+      "outputs": ["1500 is een schrikkeljaar"]
+    },
+    {
+      "inputs": ["8000"],
+      "outputs": ["8000 is geen schrikkeljaar"]
+    },
+    {
+      "inputs": ["1600"],
+      "outputs": ["1600 is een schrikkeljaar"]
+    },
+    {
+      "inputs": ["1324"],
+      "outputs": ["1324 is een schrikkeljaar"]
+    },
+    {
+      "inputs": ["4555"],
+      "outputs": ["4555 is geen schrikkeljaar"]
+    },
+    {
+      "inputs": ["300"],
+      "outputs": ["300 is een schrikkeljaar"]
+    }
+  ]
+}
