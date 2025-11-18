@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["0", "0"],
+      "outputs": ["Punt ligt in de oorsprong."]
+    },
+    {
+      "inputs": ["-3", "2"],
+      "outputs": ["Punt ligt in het tweede kwadrant."]
+    },
+    {
+      "inputs": ["3", "3"],
+      "outputs": ["Punt ligt in het eerste kwadrant."]
+    },
+    {
+      "inputs": ["-3", "-5"],
+      "outputs": ["Punt ligt in het derde kwadrant."]
+    },
+    {
+      "inputs": ["4", "-3"],
+      "outputs": ["Punt ligt in het vierde kwadrant."]
+    },
+    {
+      "inputs": ["0", "5"],
+      "outputs": ["Punt ligt in het eerste kwadrant."]
+    }
+  ]
+}
