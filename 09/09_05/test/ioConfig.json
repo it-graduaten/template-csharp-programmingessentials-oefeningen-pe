@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["voorstel"],
+      "outputs": ["********"]
+    },
+    {
+      "inputs": ["knikkerbaan"],
+      "outputs": ["***********"]
+    },
+    {
+      "inputs": ["tandem"],
+      "outputs": ["******"]
+    },
+    {
+      "inputs": ["bruistablet"],
+      "outputs": ["***********"]
+    },
+    {
+      "inputs": ["voetbal"],
+      "outputs": ["*******"]
+    },
+    {
+      "inputs": ["Thomas More"],
+      "outputs": ["***********"]
+    }
+  ]
+}
