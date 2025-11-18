@@ -1,0 +1,45 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["Joeri", "Verlooy", 1, 2, 3, 8],
+      "outputs": [
+        "Wij raden \"Anna\" aan.",
+        "Wij raden \"Knippie\" aan.",
+        "Wij raden \"VtWonen\" aan."
+      ]
+    },
+    {
+      "inputs": ["Joren", "Synaeve", 8],
+      "outputs": ["Wij raden niets aan."]
+    },
+    {
+      "inputs": ["Niels", "Mangelschots", 3, 5, 8],
+      "outputs": [
+        "Wij raden \"VtWonen\" aan.",
+        "Wij raden \"Wandelen & fietsen\" aan."
+      ]
+    },
+    {
+      "inputs": ["Jef", "Diede", 3, 2, 1, 6, 4, 56, 8],
+      "outputs": [
+        "Wij raden \"VtWonen\" aan.",
+        "Wij raden \"Knippie\" aan.",
+        "Wij raden \"Anna\" aan.",
+        "Wij raden \"Zoom NL\" aan.",
+        "Wij raden \"Voetbal International\" aan."
+      ]
+    },
+    {
+      "inputs": ["Jorne", "Halen", 6, 7, 8],
+      "outputs": ["Wij raden \"Zoom NL\" aan.", "Wij raden \"Runners\" aan."]
+    },
+    {
+      "inputs": ["Thomas", "Geels", 3, 4, "", 56, -1, 8],
+      "outputs": [
+        "Wij raden \"VtWonen\" aan.",
+        "Wij raden \"Voetbal International\" aan."
+      ]
+    }
+  ]
+}
