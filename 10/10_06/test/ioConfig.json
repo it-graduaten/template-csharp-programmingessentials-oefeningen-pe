@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["p-1.txt"],
+      "outputs": ["Rufus, Bent en Rora"]
+    },
+    {
+      "inputs": ["p-2.txt"],
+      "outputs": ["Edyth"]
+    },
+    {
+      "inputs": ["p-3.txt"],
+      "outputs": ["Salomon en Lindy"]
+    },
+    {
+      "inputs": ["p-4.txt"],
+      "outputs": ["Shae, Rebecka en 2 anderen"]
+    },
+    {
+      "inputs": ["p-5.txt"],
+      "outputs": ["Micheal, Lacy en 6 anderen"]
+    },
+    {
+      "inputs": ["p-6.txt"],
+      "outputs": ["Niemand"]
+    }
+  ]
+}
