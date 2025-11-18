@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["1"],
+      "outputs": ["0 punten."]
+    },
+    {
+      "inputs": ["2"],
+      "outputs": ["20 punten."]
+    },
+    {
+      "inputs": ["4"],
+      "outputs": ["100 punten."]
+    },
+    {
+      "inputs": ["3"],
+      "outputs": ["50 punten."]
+    },
+    {
+      "inputs": ["2"],
+      "outputs": ["20 punten."]
+    },
+    {
+      "inputs": ["1"],
+      "outputs": ["0 punten."]
+    }
+  ]
+}
