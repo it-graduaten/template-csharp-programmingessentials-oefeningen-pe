@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["kwadraten-1.txt"],
+      "outputs": ["Correct"]
+    },
+    {
+      "inputs": ["kwadraten-2.txt"],
+      "outputs": ["16 ontbreekt"]
+    },
+    {
+      "inputs": ["kwadraten-3.txt"],
+      "outputs": ["Correct"]
+    },
+    {
+      "inputs": ["kwadraten-4.txt"],
+      "outputs": ["441 ontbreekt"]
+    },
+    {
+      "inputs": ["kwadraten-5.txt"],
+      "outputs": ["12996 ontbreekt"]
+    },
+    {
+      "inputs": ["kwadraten-6.txt"],
+      "outputs": ["Correct"]
+    }
+  ]
+}
