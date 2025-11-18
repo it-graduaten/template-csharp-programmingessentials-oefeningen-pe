@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["januari"],
+      "outputs": ["31 dagen."]
+    },
+    {
+      "inputs": ["okktober"],
+      "outputs": ["Foutieve invoer."]
+    },
+    {
+      "inputs": ["februari"],
+      "outputs": ["28/29 dagen."]
+    },
+    {
+      "inputs": ["november"],
+      "outputs": ["30 dagen."]
+    },
+    {
+      "inputs": ["juli"],
+      "outputs": ["31 dagen."]
+    },
+    {
+      "inputs": ["juni"],
+      "outputs": ["30 dagen."]
+    }
+  ]
+}
