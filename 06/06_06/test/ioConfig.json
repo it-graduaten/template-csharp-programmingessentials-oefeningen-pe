@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ 2, 6 ],
+      "outputs": [ "Totaal aantal tickets: 8", "Totale prijs: 120" ]
+    },
+    {
+      "inputs": [ -3 ],
+      "outputs": [ "Totaal aantal tickets: 0", "Totale prijs: 0" ]
+    },
+    {
+      "inputs": [ 1, 4 ],
+      "outputs": [ "Totaal aantal tickets: 5", "Totale prijs: 75" ]
+    },
+    {
+      "inputs": [ 5, 2 ],
+      "outputs": [ "Totaal aantal tickets: 7", "Totale prijs: 105" ]
+    },
+    {
+      "inputs": [ 1, 7 ],
+      "outputs": [ "Totaal aantal tickets: 8", "Totale prijs: 120" ]
+    },
+    {
+      "inputs": [ 4, 6 ],
+      "outputs": [ "Totaal aantal tickets: 10", "Totale prijs: 150" ]
+    }
+  ]
+}
