@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["lepel"],
+      "outputs": ["lepel is een palindroom"]
+    },
+    {
+      "inputs": ["stroompanne"],
+      "outputs": ["stroompanne is geen palindroom"]
+    },
+    {
+      "inputs": ["vork"],
+      "outputs": ["vork is geen palindroom"]
+    },
+    {
+      "inputs": ["meetsysteem"],
+      "outputs": ["meetsysteem is een palindroom"]
+    },
+    {
+      "inputs": ["rookseinklotetolknieskoor"],
+      "outputs": ["rookseinklotetolknieskoor is een palindroom"]
+    },
+    {
+      "inputs": ["thomasmore"],
+      "outputs": ["thomasmore is geen palindroom"]
+    }
+  ]
+}
