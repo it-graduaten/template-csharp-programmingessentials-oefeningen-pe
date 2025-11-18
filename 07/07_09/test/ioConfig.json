@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ "130", "105", "122" ],
+      "outputs": [ "Je hebt level 4 bereikt." ]
+    },
+    {
+      "inputs": [ "191", "8", "191", "139", "25" ],
+      "outputs": [ "Je hebt level 6 bereikt." ]
+    },
+    {
+      "inputs": [ "89", "161", "141", "131", "170", "158", "16", "124" ],
+      "outputs": [ "Je hebt level 9 bereikt." ]
+    },
+    {
+      "inputs": [ "44", "29", "34", "69", "134", "176", "102", "168", "49", "179" ],
+      "outputs": [ "Je hebt level 9 bereikt." ]
+    },
+    {
+      "inputs": [ "119", "74", "48", "1", "56", "184", "44", "73", "176", "91", "101", "32", "118", "169", "178" ],
+      "outputs": [ "Je hebt level 10 bereikt." ]
+    },
+    {
+      "inputs": [ "1", "183", "167", "4", "12", "145", "135", "112", "42", "143", "108", "30", "127", "3", "111" ],
+      "outputs": [ "Je hebt level 10 bereikt." ]
+    }
+  ]
+}
