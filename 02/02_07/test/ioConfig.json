@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["14", "32", "67", "23"],
+      "outputs": ["Kleinste getal: 14"]
+    },
+    {
+      "inputs": ["10", "9", "11", "5"],
+      "outputs": ["Kleinste getal: 5"]
+    },
+    {
+      "inputs": ["4", "3", "2", "1"],
+      "outputs": ["Kleinste getal: 1"]
+    },
+    {
+      "inputs": ["104", "24", "276", "32"],
+      "outputs": ["Kleinste getal: 24"]
+    },
+    {
+      "inputs": ["123", "456", "789", "0"],
+      "outputs": ["Kleinste getal: 0"]
+    },
+    {
+      "inputs": ["-5", "-2", "2", "7"],
+      "outputs": ["Kleinste getal: -5"]
+    }
+  ]
+}
