@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [16, 6],
+      "outputs": ["16 / 6 = 2"]
+    },
+    {
+      "inputs": [15, 3],
+      "outputs": ["15 / 3 = 5"]
+    },
+    {
+      "inputs": [16, 0],
+      "outputs": ["16 is niet deelbaar door 0."]
+    },
+    {
+      "inputs": [18, 2],
+      "outputs": ["18 / 2 = 9"]
+    },
+    {
+      "inputs": [15, -3],
+      "outputs": ["15 / -3 = -5"]
+    },
+    {
+      "inputs": [20, 6],
+      "outputs": ["20 / 6 = 3"]
+    }
+  ]
+}
