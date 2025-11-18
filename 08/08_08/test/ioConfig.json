@@ -1,0 +1,59 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [333, 73, 244, -181, -321, 0],
+      "outputs": [
+        "Statistieken:",
+        "Hoogste cijfer: 333",
+        "Laagste cijfer: -321",
+        "Gemiddelde: 29"
+      ]
+    },
+    {
+      "inputs": [179, 322, 166, -186, -322, 0],
+      "outputs": [
+        "Statistieken:",
+        "Hoogste cijfer: 322",
+        "Laagste cijfer: -322",
+        "Gemiddelde: 31"
+      ]
+    },
+    {
+      "inputs": [324, 116, 136, -145, -83, 0],
+      "outputs": [
+        "Statistieken:",
+        "Hoogste cijfer: 324",
+        "Laagste cijfer: -145",
+        "Gemiddelde: 69"
+      ]
+    },
+    {
+      "inputs": [91, 43, 253, -316, -73, 0],
+      "outputs": [
+        "Statistieken:",
+        "Hoogste cijfer: 253",
+        "Laagste cijfer: -316",
+        "Gemiddelde: 0"
+      ]
+    },
+    {
+      "inputs": [147, 389, 392, -283, -142, 0],
+      "outputs": [
+        "Statistieken:",
+        "Hoogste cijfer: 392",
+        "Laagste cijfer: -283",
+        "Gemiddelde: 100"
+      ]
+    },
+    {
+      "inputs": [252, 95, 272, -162, -331, 0],
+      "outputs": [
+        "Statistieken:",
+        "Hoogste cijfer: 272",
+        "Laagste cijfer: -331",
+        "Gemiddelde: 25"
+      ]
+    }
+  ]
+}
