@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["979-9315445-97"],
+      "outputs": ["is niet geldig"]
+    },
+    {
+      "inputs": ["979-9319840-85"],
+      "outputs": ["is geldig"]
+    },
+    {
+      "inputs": ["979-9313265-97"],
+      "outputs": ["niet geldig"]
+    },
+    {
+      "inputs": ["979-9315836-58"],
+      "outputs": ["is geldig"]
+    },
+    {
+      "inputs": ["979-9311235-16"],
+      "outputs": ["is geldig"]
+    },
+    {
+      "inputs": ["979-9313465-97"],
+      "outputs": ["is niet geldig"]
+    }
+  ]
+}
