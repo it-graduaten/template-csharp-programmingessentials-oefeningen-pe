@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ "-74", "-100", "-1" ],
+      "outputs": [ "Het middelste getal bevindt zich op positie 0 in de originele lijst" ]
+    },
+    {
+      "inputs": [ "-82", "-61", "-51" ],
+      "outputs": [ "Het middelste getal bevindt zich op positie 1 in de originele lijst" ]
+    },
+    {
+      "inputs": [ "-80", "86", "-42" ],
+      "outputs": [ "Het middelste getal bevindt zich op positie 2 in de originele lijst" ]
+    },
+    {
+      "inputs": [ "-9", "0", "-86" ],
+      "outputs": [ "Het middelste getal bevindt zich op positie 0 in de originele lijst" ]
+    },
+    {
+      "inputs": [ "-57", "23", "-82" ],
+      "outputs": [ "Het middelste getal bevindt zich op positie 0 in de originele lijst" ]
+    },
+    {
+      "inputs": [ "19", "50", "-11" ],
+      "outputs": [ "Het middelste getal bevindt zich op positie 0 in de originele lijst" ]
+    }
+  ]
+}
