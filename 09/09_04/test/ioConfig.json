@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["joren"],
+      "outputs": ["jxren"]
+    },
+    {
+      "inputs": ["voorwoord"],
+      "outputs": ["vxxrwxxrd"]
+    },
+    {
+      "inputs": ["braadpan"],
+      "outputs": ["braadpan"]
+    },
+    {
+      "inputs": ["slokop"],
+      "outputs": ["slxkxp"]
+    },
+    {
+      "inputs": ["thomas more"],
+      "outputs": ["thxmas mxre"]
+    },
+    {
+      "inputs": ["draagberrie"],
+      "outputs": ["draagberrie"]
+    }
+  ]
+}
