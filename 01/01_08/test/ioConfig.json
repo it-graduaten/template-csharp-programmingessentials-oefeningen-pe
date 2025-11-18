@@ -1,0 +1,35 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [15],
+      "outputs": [94.2],
+      "delta": 1
+    },
+    {
+      "inputs": [-14],
+      "outputs": [-87.9],
+      "delta": 1
+    },
+    {
+      "inputs": [10],
+      "outputs": [62.8],
+      "delta": 1
+    },
+    {
+      "inputs": [3],
+      "outputs": [18.8],
+      "delta": 1
+    },
+    {
+      "inputs": [67],
+      "outputs": [420.7],
+      "delta": 1
+    },
+    {
+      "inputs": [300],
+      "outputs": [1884],
+      "delta": 1
+    }
+  ]
+}
