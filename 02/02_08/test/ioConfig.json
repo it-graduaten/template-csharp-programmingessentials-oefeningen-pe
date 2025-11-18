@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["100", "USD"],
+      "outputs": ["USD: 77.00"]
+    },
+    {
+      "inputs": ["100", "GBP"],
+      "outputs": ["GBP: 108.00"]
+    },
+    {
+      "inputs": ["100", "YEN"],
+      "outputs": ["Foutieve wisselkoers"]
+    },
+    {
+      "inputs": ["50", "USD"],
+      "outputs": ["USD: 38.50"]
+    },
+    {
+      "inputs": ["50", "GBP"],
+      "outputs": ["GBP: 54.00"]
+    },
+    {
+      "inputs": ["50", "YEN"],
+      "outputs": ["Foutieve wisselkoers"]
+    }
+  ]
+}
