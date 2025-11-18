@@ -1,0 +1,40 @@
+{
+  "fixtures": [
+    "getallen-1.txt",
+    "getallen-2.txt",
+    "getallen-3.txt",
+    "getallen-4.txt",
+    "getallen-5.txt",
+    "getallen-6.txt"
+  ],
+  "ioConfig": [
+    {
+      "inputs": ["They hadn't updated the store's sign in decades."],
+      "outputs": ["13"]
+    },
+    {
+      "inputs": ["I am completely drunk."],
+      "outputs": ["6"]
+    },
+    {
+      "inputs": [
+        "I especially appreciate how helpful and kind you’ve been throughout this entire process."
+      ],
+      "outputs": ["30"]
+    },
+    {
+      "inputs": ["Steve doesn't have to go if he doesn't want to."],
+      "outputs": ["14"]
+    },
+    {
+      "inputs": ["The peanut butter jar was hard to open."],
+      "outputs": ["12"]
+    },
+    {
+      "inputs": [
+        "He was devastated when the Kardashians announced they were cancelling their TV show."
+      ],
+      "outputs": ["25"]
+    }
+  ]
+}
