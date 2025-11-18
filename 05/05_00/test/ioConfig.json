@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [ "test", 500 ],
+      "outputs": [ "Totale tijd: 45 uur" ]
+    },
+    {
+      "inputs": [ "g", "r", "t", -14 ],
+      "outputs": [ "Totale tijd: 5 uur" ]
+    },
+    {
+      "inputs": [ 34 ],
+      "outputs": [ "Totale tijd: 30 uur" ]
+    },
+    {
+      "inputs": [ " ", " ", "e", "r", 400 ],
+      "outputs": [ "Totale tijd: 45 uur" ]
+    },
+    {
+      "inputs": [ 123 ],
+      "outputs": [ "Totale tijd: 35 uur" ]
+    },
+    {
+      "inputs": [ -4005 ],
+      "outputs": [ "Totale tijd: 5 uur" ]
+    }
+  ]
+}
