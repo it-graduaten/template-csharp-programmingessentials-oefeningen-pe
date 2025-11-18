@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["Gala", "ja", "Joeri", "ja", "Emma", "nee"],
+      "outputs": ["Aanwezigen voor Gala:", "Joeri", "Emma"]
+    },
+    {
+      "inputs": ["Teambuilding", "nee"],
+      "outputs": ["Er zijn geen aanwezigen voor Teambuilding!"]
+    },
+    {
+      "inputs": ["Personeelsfeest", "ja", "Joren", "nee"],
+      "outputs": ["Aanwezigen voor Personeelsfeest:", "Joren"]
+    },
+    {
+      "inputs": ["Gala", "ja", "Jef", "ja", "Jan", "nee"],
+      "outputs": ["Aanwezigen voor Gala:", "Jef", "Jan"]
+    },
+    {
+      "inputs": ["Party", "ja", "An-Sofie", "nee"],
+      "outputs": ["Aanwezigen voor Party:", "An-Sofie"]
+    },
+    {
+      "inputs": ["Trouw", "nee"],
+      "outputs": ["Er zijn geen aanwezigen voor Trouw!"]
+    }
+  ]
+}
