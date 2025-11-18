@@ -1,0 +1,68 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": [
+        "ja",
+        "Debi Laurisch",
+        "nee"
+      ],
+      "outputs": [
+        "Namen:\nDebi Laurisch"
+      ]
+    },
+    {
+      "inputs": [
+        "ja",
+        "Jennine Siebert",
+        "ja",
+        "Michal Drinnan",
+        "nee"
+      ],
+      "outputs": [
+        "Namen:\nJennine Siebert\nMichal Drinnan"
+      ]
+    },
+    {
+      "inputs": [
+        "nee"
+      ],
+      "outputs": [
+        "Er zijn geen aanwezigen!"
+      ]
+    },
+    {
+      "inputs": [
+        "nope",
+        "ja",
+        "Joren",
+        "ja",
+        "Jens",
+        "nee"
+      ],
+      "outputs": [
+        "Namen:\nJoren\nJens"
+      ]
+    },
+    {
+      "inputs": [
+        "ja",
+        "Joren",
+        "ja",
+        "Brend",
+        "nee"
+      ],
+      "outputs": [
+        "Namen:\nJoren\nBrend"
+      ]
+    },
+    {
+      "inputs": [
+        "nee"
+      ],
+      "outputs": [
+        "Er zijn geen aanwezigen!"
+      ]
+    }
+  ]
+}
