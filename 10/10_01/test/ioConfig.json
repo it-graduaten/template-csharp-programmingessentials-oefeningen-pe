@@ -1,0 +1,46 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["vrienden-1.txt"],
+      "outputs": [
+        "Vrienden",
+        "Olivia",
+        "Emma",
+        "Mila",
+        "Arthur",
+        "Noah",
+        "Jules",
+        "Liam"
+      ]
+    },
+    {
+      "inputs": ["vrienden-2.txt"],
+      "outputs": ["Geen vrienden"]
+    },
+    {
+      "inputs": ["vrienden-3.txt"],
+      "outputs": ["Vrienden", "Maria", "Marie", "Jean", "Marc"]
+    },
+    {
+      "inputs": ["vrienden-4.txt"],
+      "outputs": ["Geen vrienden"]
+    },
+    {
+      "inputs": ["vrienden-5.txt"],
+      "outputs": [
+        "Vrienden",
+        "Patrick",
+        "Michel",
+        "Jan",
+        "Philippe",
+        "Anne",
+        "Paul"
+      ]
+    },
+    {
+      "inputs": ["vrienden-6.txt"],
+      "outputs": ["Vrienden", "Roger", "Dirk", "Robert", "Daniel", "David"]
+    }
+  ]
+}
