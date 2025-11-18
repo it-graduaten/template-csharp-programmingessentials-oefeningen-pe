@@ -1,0 +1,29 @@
+{
+  "fixtures": [],
+  "ioConfig": [
+    {
+      "inputs": ["woordzoeker", "voorstelletje"],
+      "outputs": ["---     -"]
+    },
+    {
+      "inputs": ["Egel", "Eenhoorn"],
+      "outputs": ["-"]
+    },
+    {
+      "inputs": ["bromfiets", "brombeer"],
+      "outputs": ["----  -"]
+    },
+    {
+      "inputs": ["tank", "voetbal"],
+      "outputs": [""]
+    },
+    {
+      "inputs": ["teen", "leen"],
+      "outputs": [" ---"]
+    },
+    {
+      "inputs": ["janneke", "jan-erik"],
+      "outputs": ["--- -"]
+    }
+  ]
+}
