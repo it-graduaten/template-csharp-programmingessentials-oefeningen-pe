@@ -1,8 +1,6 @@
-# 01_02
-
-## Opgave
-
-Schrijf een programma dat een prijs (exclusief btw) en een btw percentage inleest. Druk de prijs inclusief btw af. Rond de prijs inclusief btw af op 2 decimalen. Dit kan je doen door gebruik te maken van `variable.ToString("N2")`.
+## 01.02
+Schrijf een programma dat een prijs (exclusief btw) en een btw percentage inleest.
+Druk de prijs inclusief btw af.
 
 ## Fuzz Test Cases
 
@@ -12,14 +10,14 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=80.85221699452312, 78.24411026221277
+**Description:** Run 1: args=30.039497622916542, 12.84005395365914
 
 
 **Input:**
 
 ```
-80.85221699452312
-78.24411026221277
+30.039497622916542
+12.84005395365914
 ```
 
 **Expected Output:**
@@ -27,21 +25,21 @@ Below are the automatically generated input/output expectations.
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 144.11
+Prijs inclusief BTW: 385.708.770.219.093.918.488.018.812.928,00
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=16.632764400639534, 61.796560027047015
+**Description:** Run 2: args=70.33263980129475, 23.99213213738271
 
 
 **Input:**
 
 ```
-16.632764400639534
-61.796560027047015
+70.33263980129475
+23.99213213738271
 ```
 
 **Expected Output:**
@@ -49,21 +47,21 @@ Prijs inclusief BTW: 144.11
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 26.91
+Prijs inclusief BTW: 168.742.998.768.367.627.137.462.566.912,00
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=60.51671089256879, 66.09152954657914
+**Description:** Run 3: args=68.21702994927838, 79.62852518836462
 
 
 **Input:**
 
 ```
-60.51671089256879
-66.09152954657914
+68.21702994927838
+79.62852518836462
 ```
 
 **Expected Output:**
@@ -71,21 +69,21 @@ Prijs inclusief BTW: 26.91
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 100.51
+Prijs inclusief BTW: 543.202.148.759.160.553.182.727.241.728,00
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=16.374822203663875, 36.40880335948114
+**Description:** Run 4: args=72.199131872374, 53.790337965074364
 
 
 **Input:**
 
 ```
-16.374822203663875
-36.40880335948114
+72.199131872374
+53.790337965074364
 ```
 
 **Expected Output:**
@@ -93,21 +91,21 @@ Prijs inclusief BTW: 100.51
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 22.34
+Prijs inclusief BTW: 38.836.157.041.999.770.342.955.941.888,00
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=24.51216946469339, 18.31177828333016
+**Description:** Run 5: args=57.870474049076456, 9.788556212046142
 
 
 **Input:**
 
 ```
-24.51216946469339
-18.31177828333016
+57.870474049076456
+9.788556212046142
 ```
 
 **Expected Output:**
@@ -115,21 +113,21 @@ Prijs inclusief BTW: 22.34
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 29.00
+Prijs inclusief BTW: 5.664.683.882.471.481.082.742.004.776.960,00
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=6.407411013076116, 96.00961473985524
+**Description:** Run 6: args=57.290987301226394, 79.49883609573024
 
 
 **Input:**
 
 ```
-6.407411013076116
-96.00961473985524
+57.290987301226394
+79.49883609573024
 ```
 
 **Expected Output:**
@@ -137,21 +135,21 @@ Prijs inclusief BTW: 29.00
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 12.56
+Prijs inclusief BTW: 4.554.566.809.222.816.586.460.888.563.712,00
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=7.654256102217653, 20.303446521590924
+**Description:** Run 7: args=63.875090759685044, 8.438110685519423
 
 
 **Input:**
 
 ```
-7.654256102217653
-20.303446521590924
+63.875090759685044
+8.438110685519423
 ```
 
 **Expected Output:**
@@ -159,21 +157,21 @@ Prijs inclusief BTW: 12.56
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 9.21
+Prijs inclusief BTW: 5.389.850.858.778.277.087.619.498.115.072,00
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=48.25071216528954, 61.61494903134305
+**Description:** Run 8: args=97.18866328589966, 87.91866458026675
 
 
 **Input:**
 
 ```
-48.25071216528954
-61.61494903134305
+97.18866328589966
+87.91866458026675
 ```
 
 **Expected Output:**
@@ -181,21 +179,21 @@ Prijs inclusief BTW: 9.21
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 77.98
+Prijs inclusief BTW: 854.469.748.843.759.531.342.763.655.168,00
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=91.79432796450091, 9.722147039397964
+**Description:** Run 9: args=41.15609339599308, 82.78759431948178
 
 
 **Input:**
 
 ```
-91.79432796450091
-9.722147039397964
+41.15609339599308
+82.78759431948178
 ```
 
 **Expected Output:**
@@ -203,21 +201,21 @@ Prijs inclusief BTW: 77.98
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 100.72
+Prijs inclusief BTW: 340.721.396.384.221.919.147.599.069.184,00
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=45.332723415032085, 95.68970917151117
+**Description:** Run 10: args=83.14918378220632, 66.84948469478041
 
 
 **Input:**
 
 ```
-45.332723415032085
-95.68970917151117
+83.14918378220632
+66.84948469478041
 ```
 
 **Expected Output:**
@@ -225,21 +223,21 @@ Prijs inclusief BTW: 100.72
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 88.71
+Prijs inclusief BTW: 555.848.008.863.216.756.620.521.373.696,00
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=23.732203540637418, 77.09216938163271
+**Description:** Run 11: args=41.539546986834644, 24.090908160224664
 
 
 **Input:**
 
 ```
-23.732203540637418
-77.09216938163271
+41.539546986834644
+24.090908160224664
 ```
 
 **Expected Output:**
@@ -247,21 +245,21 @@ Prijs inclusief BTW: 88.71
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 42.03
+Prijs inclusief BTW: 10.007.254.114.771.745.977.112.020.910.080,00
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=92.97978516009547, 77.71954472974623
+**Description:** Run 12: args=98.40159158949061, 55.09242970164633
 
 
 **Input:**
 
 ```
-92.97978516009547
-77.71954472974623
+98.40159158949061
+55.09242970164633
 ```
 
 **Expected Output:**
@@ -269,21 +267,21 @@ Prijs inclusief BTW: 42.03
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 165.24
+Prijs inclusief BTW: 542.118.276.717.422.206.987.949.572.096,00
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=21.29837017605209, 28.255551791961217
+**Description:** Run 13: args=34.55395744824215, 81.68333716319279
 
 
 **Input:**
 
 ```
-21.29837017605209
-28.255551791961217
+34.55395744824215
+81.68333716319279
 ```
 
 **Expected Output:**
@@ -291,21 +289,21 @@ Prijs inclusief BTW: 165.24
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 27.32
+Prijs inclusief BTW: 282.248.255.656.741.460.333.853.409.280,00
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=1.4834209493821695, 38.821896202490336
+**Description:** Run 14: args=96.60172740847179, 66.57582358954353
 
 
 **Input:**
 
 ```
-1.4834209493821695
-38.821896202490336
+96.60172740847179
+66.57582358954353
 ```
 
 **Expected Output:**
@@ -313,21 +311,21 @@ Prijs inclusief BTW: 27.32
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 2.06
+Prijs inclusief BTW: 643.133.956.239.168.725.470.926.602.240,00
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=27.869267566712963, 79.65178984627612
+**Description:** Run 15: args=33.645415683228734, 12.314821356734958
 
 
 **Input:**
 
 ```
-27.869267566712963
-79.65178984627612
+33.645415683228734
+12.314821356734958
 ```
 
 **Expected Output:**
@@ -335,7 +333,7 @@ Prijs inclusief BTW: 2.06
 ```
 Geef de prijs in:
 Geef het BTW percentage in:
-Prijs inclusief BTW: 50.07
+Prijs inclusief BTW: 4.143.372.836.120.539.234.183.304.708.096,00
 ```
 
 ---
