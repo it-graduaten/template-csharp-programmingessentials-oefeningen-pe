@@ -1,4 +1,7 @@
-# 01_01
+## 01.01 
+Lees 4 getallen in.
+Het eerste en het derde getal tellen we op. Het tweede en het vierde getal vermenigvuldigen we.
+De resultaten worden afgedrukt.
 
 ## Fuzz Test Cases
 
@@ -8,405 +11,405 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=76, 83, 32, 62
+**Description:** Run 1: args=55, 28, 31, 90
 
 
 **Input:**
 
 ```
-76
-83
-32
-62
+55
+28
+31
+90
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 108
-Vermenigvuldiging: 5146
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 86
+Vermenigvuldiging: 2520
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=17, 32, 24, 7
+**Description:** Run 2: args=72, 83, 35, 3
 
 
 **Input:**
 
 ```
-17
-32
-24
-7
+72
+83
+35
+3
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 41
-Vermenigvuldiging: 224
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 107
+Vermenigvuldiging: 249
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=84, 81, 94, 32
+**Description:** Run 3: args=45, 38, 52, 90
 
 
 **Input:**
 
 ```
-84
-81
-94
-32
+45
+38
+52
+90
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 178
-Vermenigvuldiging: 2592
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 97
+Vermenigvuldiging: 3420
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=5, 70, 80, 33
+**Description:** Run 4: args=23, 83, 81, 64
 
 
 **Input:**
 
 ```
-5
-70
-80
-33
+23
+83
+81
+64
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 85
-Vermenigvuldiging: 2310
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 104
+Vermenigvuldiging: 5312
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=90, 1, 91, 74
+**Description:** Run 5: args=57, 28, 90, 29
 
 
 **Input:**
 
 ```
+57
+28
 90
-1
-91
-74
+29
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 181
-Vermenigvuldiging: 74
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 147
+Vermenigvuldiging: 812
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=93, 65, 24, 1
+**Description:** Run 6: args=86, 63, 78, 30
 
 
 **Input:**
 
 ```
-93
-65
-24
-1
+86
+63
+78
+30
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 117
-Vermenigvuldiging: 65
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 164
+Vermenigvuldiging: 1890
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=99, 32, 48, 7
+**Description:** Run 7: args=12, 33, 41, 48
 
 
 **Input:**
 
 ```
-99
-32
+12
+33
+41
 48
-7
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 147
-Vermenigvuldiging: 224
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 53
+Vermenigvuldiging: 1584
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=27, 30, 31, 84
+**Description:** Run 8: args=74, 87, 100, 30
 
 
 **Input:**
 
 ```
-27
+74
+87
+100
 30
-31
-84
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 58
-Vermenigvuldiging: 2520
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 174
+Vermenigvuldiging: 2610
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=67, 49, 43, 34
+**Description:** Run 9: args=89, 86, 52, 91
 
 
 **Input:**
 
 ```
-67
-49
-43
-34
+89
+86
+52
+91
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 110
-Vermenigvuldiging: 1666
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 141
+Vermenigvuldiging: 7826
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=36, 44, 65, 50
+**Description:** Run 10: args=76, 49, 50, 21
 
 
 **Input:**
 
 ```
-36
-44
-65
+76
+49
 50
+21
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 101
-Vermenigvuldiging: 2200
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 126
+Vermenigvuldiging: 1029
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=2, 78, 26, 78
+**Description:** Run 11: args=42, 93, 99, 90
 
 
 **Input:**
 
 ```
-2
-78
-26
-78
+42
+93
+99
+90
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 28
-Vermenigvuldiging: 6084
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 141
+Vermenigvuldiging: 8370
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=25, 63, 58, 15
+**Description:** Run 12: args=27, 7, 97, 43
 
 
 **Input:**
 
 ```
-25
-63
-58
-15
+27
+7
+97
+43
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 83
-Vermenigvuldiging: 945
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 124
+Vermenigvuldiging: 301
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=92, 16, 1, 60
+**Description:** Run 13: args=27, 17, 30, 19
 
 
 **Input:**
 
 ```
-92
-16
-1
-60
+27
+17
+30
+19
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 93
-Vermenigvuldiging: 960
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 57
+Vermenigvuldiging: 323
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=95, 33, 68, 1
+**Description:** Run 14: args=74, 86, 3, 77
 
 
 **Input:**
 
 ```
-95
-33
-68
-1
+74
+86
+3
+77
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 163
-Vermenigvuldiging: 33
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 77
+Vermenigvuldiging: 6622
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=38, 80, 3, 5
+**Description:** Run 15: args=35, 55, 23, 79
 
 
 **Input:**
 
 ```
-38
-80
-3
-5
+35
+55
+23
+79
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1
-Geef getal 2
-Geef getal 3
-Geef getal 4
-Optelling: 41
-Vermenigvuldiging: 400
+Geef getal 1:
+Geef getal 2:
+Geef getal 3:
+Geef getal 4:
+Optelling: 58
+Vermenigvuldiging: 4345
 ```
 
 ---
