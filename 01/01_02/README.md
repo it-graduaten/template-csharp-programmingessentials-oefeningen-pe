@@ -1,4 +1,4 @@
-## 01.02
+# 01.02
 Schrijf een programma dat een prijs (exclusief btw) en een btw percentage inleest.
 Druk de prijs inclusief btw af.
 
